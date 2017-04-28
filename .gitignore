@@ -4,3 +4,6 @@
 *.zip
 config.py
 env
+output/
+srv.pid
+pelican.pid
